@@ -4,3 +4,15 @@
     box-sizing: border-box;
     color: rgb(190, 192, 193);
 }
+
+.body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://media.istockphoto.com/id/1370365587/photo/big-eyed-naughty-obese-cat-looking-at-the-target.jpg?b=1&s=170667a&w=0&k=20&c=468okwKwMosVm_DxsNTfe5ms9h5_8w0ETSk51Ys6I5k=);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

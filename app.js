@@ -39,7 +39,7 @@ btn.addEventListener("click", () => {
     } else if (x === randomNum) {
       alert("Marvelous");
       body.style.backgroundImage =
-        "https://cdn.pixabay.com/photo/2023/01/23/15/02/beaver-rat-7738914__340.jpg";
+        "https://media.istockphoto.com/id/1361394182/photo/funny-british-shorthair-cat-portrait-looking-shocked-or-surprised.jpg?b=1&s=170667a&w=0&k=20&c=nOa1R7PGaqOaQscx10FpA5ZNenMeDfs-k6VgmmuY4cc=";
     }
   } else {
     alert("please enter a number between 1-100");
